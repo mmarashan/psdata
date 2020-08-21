@@ -43,6 +43,56 @@
       "averageTimeReadingMin": 1,
       "hardLevel": 2,
       "timestamp": 1594785364
+    },
+   
+   
+   
+    {
+      "id": 4
+      "tags": ["потешки", "до 1 года"],
+      "author": "Русская народная",
+      "title": "Петушок",
+      "text": "Петушок, петушок,\n\nЗолотой гребешок,\n\nМасляна головушка,\n\nШелкова бородушка,\n\nЧто ты рано встаешь,\n\nГолосисто поешь,\n\nДеткам спать не даешь?",
+      "iconUrl": "https://icon-icons.com/icons2/1465/PNG/256/481rooster_100746.png",
+      "averageTimeReadingMin": 1,
+      "hardLevel": 2,
+      "timestamp": 1594785364
+    },
+    {
+      "id": 5
+      "tags": ["потешки", "до 1 года"],
+      "author": "Русская народная",
+      "title": "Пяточки",
+      "text": "Вот лежат в кроватке\n\nРозовые пятки.\n\nЧьи это пятки –\n\nМягки да сладки?\n\nПрибегут гусятки,\n\nУщипнут за пятки.\n\nПрячь скорей, не зевай,\n\nОдеяльцем накрывай!",
+      "iconUrl": "https://c7.hotpng.com/preview/368/496/996/computer-icons-child-clip-art-baby-footprints.jpg",
+      "averageTimeReadingMin": 1,
+      "hardLevel": 2,
+      "timestamp": 1594785364
+    },
+    {
+      "id": 6
+      "tags": ["потешки", "до 1 года"],
+      "author": "Русская народная",
+      "title": "Просыпаемся",
+      "text": "Потянушки - потягушки,\n\nКто тут сладкий на подушке?\n\nКто тут нежится в кроватке?\n\nЧьи тут розовые пятки?\n\nЭто кто же тут проснулся,\n\nКто так маме улыбнулся?\n\nИ кого так любит мама?\n\nВот тут кто любимый самый!",
+      "iconUrl": "https://images.clipartlogo.com/files/istock/previews/9477/94771343-child-waking-up.jpg",
+      "averageTimeReadingMin": 1,
+      "hardLevel": 2,
+      "timestamp": 1594785364
+    },
+    {
+      "id": 7
+      "tags": ["потешки", "до 1 года"],
+      "author": "Русская народная",
+      "title": "Умываемся с потешками",
+      "text": "Водичка, водичка,\n\nУмой мое личико,\n\nЧтобы глазоньки блестели,\n\nЧтобы щечки краснели,\n\nЧтоб смеялся роток,\n\nЧтоб кусался зубок.\n\n\n\nАй, лады, лады,\n\nНе боимся мы воды,\n\nЧисто умываемся,\n\nМаме улыбаемся.\n\n\n\nЩечки?\n\nМыли.\n\nНосик?\n\nМыли?\n\nА глазки?\n\nЗабыли."\n\n,
+      "iconUrl": "https://w7.pngwing.com/pngs/906/399/png-transparent-girl-bathing-rabbit-girl-bathe.png",
+      "averageTimeReadingMin": 1,
+      "hardLevel": 2,
+      "timestamp": 1594785364
     }
+    
+    
+    
   ]
 }
