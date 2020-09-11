@@ -1,0 +1,30 @@
+{
+	"pages":[
+		
+		{
+			"type":"TITLE_WITH_IMAGE",
+			"title":"Иван-царевич и серый волк",
+			"text": null,
+			"imageUrl":"https://www.pngitem.com/pimgs/m/302-3026737_wolf-icon-circle-hd-png-download.png",
+			"soundUrl": null,
+			"allowBackgroundSound": true
+		},
+		{
+			"type":"TEXT_WITH_IMAGE",
+			"title": null,
+			"text":"Жил-был царь Берендей, у него было три сына, младшего звали Иваном.",
+			"imageUrl":"https://www.pngitem.com/pimgs/m/302-3026737_wolf-icon-circle-hd-png-download.png",
+			"soundUrl":null,
+			"allowBackgroundSound": true
+		},
+		{
+			"type":"ONLY_TEXT",
+			"title": null,
+			"text":"Был у царя сад великолепный; росла в том саду яблоня с золотыми яблоками.\n\nСтал кто-то царский сад посещать, золотые яблоки воровать. Царю жалко стало свой сад. Посылает он туда караулы. Никакие караулы не могут уследить похитника.",
+			"imageUrl": null,
+			"soundUrl": null,
+			"allowBackgroundSound": true
+		}
+
+	]
+}
