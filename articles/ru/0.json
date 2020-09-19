@@ -1,0 +1,12 @@
+{
+	"pages":[
+		{
+			"type":"TEXT_WITH_IMAGE",
+			"title":"Ноль",
+			"text": null,
+			"imageUrl":"https://icon-icons.com/icons2/1465/PNG/256/481rooster_100746.png",
+			"soundUrl": null,
+			"allowBackgroundSound": true
+		}
+	]
+}
