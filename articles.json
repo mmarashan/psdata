@@ -9,7 +9,7 @@
       "title": "Ноль",
       "type": "SINGLE_PAGE",
       "iconUrl": "https://www.pngitem.com/pimgs/m/302-3026737_wolf-icon-circle-hd-png-download.png",
-      "pagesFile": "1.json",
+      "pagesFile": "https://raw.githubusercontent.com/mmarashan/psdata/master/articles/ru/0.json",
       "timestamp": 1594785364
     }
     
