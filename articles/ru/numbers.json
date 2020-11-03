@@ -3,7 +3,7 @@
     {
       "id": 0,
       "tags": [],
-      "category_id": "Цифры",
+      "categoryId": "Цифры",
       "lang": "RU",
       "author": "",
       "title": "Ноль",
@@ -16,7 +16,7 @@
     {
       "id": 1,
       "tags": [],
-      "category_id": "Цифры",
+      "categoryId": "Цифры",
       "lang": "RU",
       "author": "",
       "title": "Один",
@@ -29,7 +29,7 @@
     {
       "id": 2,
       "tags": [],
-      "category_id": "Цифры",
+      "categoryId": "Цифры",
       "lang": "RU",
       "author": "",
       "title": "Два",
@@ -42,7 +42,7 @@
     {
       "id": 3,
       "tags": [],
-      "category_id": "Цифры",
+      "categoryId": "Цифры",
       "lang": "RU",
       "author": "",
       "title": "Три",
@@ -55,7 +55,7 @@
     {
       "id": 4,
       "tags": [],
-      "category_id": "Цифры",
+      "categoryId": "Цифры",
       "lang": "RU",
       "author": "",
       "title": "Четыре",
@@ -68,7 +68,7 @@
     {
       "id": 5,
       "tags": [],
-      "category_id": "Цифры",
+      "categoryId": "Цифры",
       "lang": "RU",
       "author": "",
       "title": "Пять",
@@ -81,7 +81,7 @@
     {
       "id": 6,
       "tags": [],
-      "category_id": "Цифры",
+      "categoryId": "Цифры",
       "lang": "RU",
       "author": "",
       "title": "Шесть",
@@ -94,7 +94,7 @@
     {
       "id": 7,
       "tags": [],
-      "category_id": "Цифры",
+      "categoryId": "Цифры",
       "lang": "RU",
       "author": "",
       "title": "Семь",
@@ -107,7 +107,7 @@
     {
       "id": 8,
       "tags": [],
-      "category_id": "Цифры",
+      "categoryId": "Цифры",
       "lang": "RU",
       "author": "",
       "title": "Восемь",
@@ -120,7 +120,7 @@
     {
       "id": 9,
       "tags": [],
-      "category_id": "Цифры",
+      "categoryId": "Цифры",
       "lang": "RU",
       "author": "",
       "title": "Девять",
