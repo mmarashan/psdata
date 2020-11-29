@@ -5,7 +5,7 @@
 			"name":"Цифры",
 			"description":"Цифры с русской озвучкой",
 			"iconUrl":"https://raw.githubusercontent.com/mmarashan/psdata/master/images/numbers/1.jpg",
-			"fileUrl":"https://raw.githubusercontent.com/mmarashan/psdata/release-0.5/articles/ru/numbers.json",
+			"fileUrl":"https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/articles/ru/numbers.json",
 			"marketItemId": null
 		},
 		{
@@ -13,15 +13,15 @@
 			"name":"Алфавит",
 			"description":"Алфавит с русской озвучкой",
 			"iconUrl":"https://raw.githubusercontent.com/mmarashan/psdata/master/images/alphabet/a.jpg",
-			"fileUrl":"https://raw.githubusercontent.com/mmarashan/psdata/release-0.5/articles/ru/alphabet_ru.json",
+			"fileUrl":"https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/articles/ru/alphabet_ru.json",
 			"marketItemId": null
 		},
 		{
 			"id": "Цифры от логопеда",
 			"name":"Цифры от логопеда",
 			"description":"Цифры с авторской методикой от логопеда",
-			"iconUrl":"https://raw.githubusercontent.com/mmarashan/psdata/master/images/numbers/1.jpg",
-			"fileUrl":"https://raw.githubusercontent.com/mmarashan/psdata/release-0.5/articles/ru/numbers_pro.json",
+			"iconUrl":"https://raw.githubusercontent.com/mmarashan/psdata/master/images/numbers_pro/1.jpg",
+			"fileUrl":"https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/articles/ru/numbers_pro.json",
 			"marketItemId": "numbers_pro_ru"
 		}
 	]
