@@ -11,7 +11,8 @@
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/master/images/numbers/0.jpg",
       "pagesFile": "",
       "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/0.mp3"],
-      "timestamp": 1594785364
+      "timestamp": 1594785364,
+      "openPhrase": "Ноль"
     },
     {
       "id": 1,
@@ -24,7 +25,8 @@
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/master/images/numbers/1.jpg",
       "pagesFile": "",
       "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/1.mp3"],
-      "timestamp": 1594785364
+      "timestamp": 1594785364,
+      "openPhrase": "Один"
     },
     {
       "id": 2,
@@ -37,7 +39,8 @@
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/master/images/numbers/2.jpg",
       "pagesFile": "",
       "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/2.mp3"],
-      "timestamp": 1594785364
+      "timestamp": 1594785364,
+      "openPhrase": "Два"
     },
     {
       "id": 3,
@@ -50,7 +53,8 @@
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/master/images/numbers/3.jpg",
       "pagesFile": "",
       "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/3.mp3"],
-      "timestamp": 1594785364
+      "timestamp": 1594785364,
+      "openPhrase": "Три"
     },
     {
       "id": 4,
@@ -63,7 +67,8 @@
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/master/images/numbers/4.jpg",
       "pagesFile": "",
       "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/4.mp3"],
-      "timestamp": 1594785364
+      "timestamp": 1594785364,
+      "openPhrase": "Четыре"
     },
     {
       "id": 5,
@@ -76,7 +81,8 @@
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/master/images/numbers/5.jpg",
       "pagesFile": "",
       "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/5.mp3"],
-      "timestamp": 1594785364
+      "timestamp": 1594785364,
+      "openPhrase": "Пять"
     },
     {
       "id": 6,
@@ -89,7 +95,8 @@
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/master/images/numbers/6.jpg",
       "pagesFile": "",
       "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/6.mp3"],
-      "timestamp": 1594785364
+      "timestamp": 1594785364,
+      "openPhrase": "Шесть"
     },
     {
       "id": 7,
@@ -102,7 +109,8 @@
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/master/images/numbers/7.jpg",
       "pagesFile": "",
       "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/7.mp3"],
-      "timestamp": 1594785364
+      "timestamp": 1594785364,
+      "openPhrase": "Семь"
     },
     {
       "id": 8,
@@ -115,7 +123,8 @@
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/master/images/numbers/8.jpg",
       "pagesFile": "",
       "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/8.mp3"],
-      "timestamp": 1594785364
+      "timestamp": 1594785364,
+      "openPhrase": "Восемь"
     },
     {
       "id": 9,
@@ -128,7 +137,8 @@
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/master/images/numbers/9.jpg",
       "pagesFile": "",
       "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/9.mp3"],
-      "timestamp": 1594785364
+      "timestamp": 1594785364,
+      "openPhrase": "Девять"
     }
     
   ]

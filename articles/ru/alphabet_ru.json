@@ -11,7 +11,8 @@
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.6/images/alphabet/А.png",
       "pagesFile": "",
       "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.6/audio/ru/alphabet/акула.mp3"],
-      "timestamp": 1594785364
+      "timestamp": 1594785364,
+      "openPhrase": "Акула"
     },
     {
       "id": 11,
@@ -24,7 +25,8 @@
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.6/images/alphabet/Б.png",
       "pagesFile": "",
       "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.6/audio/ru/alphabet/бегемот.mp3"],
-      "timestamp": 1594785364
+      "timestamp": 1594785364,
+      "openPhrase": "Бегемот"
     },
     {
       "id": 12,
@@ -37,7 +39,8 @@
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.6/images/alphabet/В.png",
       "pagesFile": "",
       "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.6/audio/ru/alphabet/верблюд.mp3"],
-      "timestamp": 1594785364
+      "timestamp": 1594785364,
+      "openPhrase": "Верблюд"
     },
     {
       "id": 13,
@@ -50,7 +53,8 @@
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.6/images/alphabet/Г.png",
       "pagesFile": "",
       "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.6/audio/ru/alphabet/гусь.mp3"],
-      "timestamp": 1594785364
+      "timestamp": 1594785364,
+      "openPhrase": "Гусь"
     }
     
   ]
