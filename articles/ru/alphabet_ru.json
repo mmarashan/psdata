@@ -402,7 +402,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/alphabet/Ы.png",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/alphabet/Ы.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/alphabet/ы.mp3"],
       "timestamp": 1594785364,
       "openPhrase": "Ы"
     },
