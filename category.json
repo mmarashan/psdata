@@ -17,6 +17,14 @@
 			"marketItemId": null
 		},
 		{
+			"id": "Цвета",
+			"name":"Цвета",
+			"description":"Цвета с русской озвучкой",
+			"iconUrl":"https://raw.githubusercontent.com/mmarashan/psdata/master/images/colors/желтый.jpg",
+			"fileUrl":"https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/articles/ru/colors.json",
+			"marketItemId": null
+		},
+		{
 			"id": "Цифры от логопеда",
 			"name":"Цифры от логопеда",
 			"description":"Цифры с авторской методикой от логопеда",

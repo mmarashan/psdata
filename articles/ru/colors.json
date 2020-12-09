@@ -1,0 +1,33 @@
+{
+  "articles": [
+    {
+      "id": 40,
+      "tags": [],
+      "categoryId": "Цвета",
+      "lang": "RU",
+      "author": "",
+      "title": "",
+      "type": "NO_PAGES",
+      "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/master/images/colors/желтый.jpg",
+      "pagesFile": "",
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/0.mp3"],
+      "timestamp": 1594785364,
+      "openPhrase": "Желтый"
+    },
+    {
+      "id": 41,
+      "tags": [],
+      "categoryId": "Цвета",
+      "lang": "RU",
+      "author": "",
+      "title": "",
+      "type": "NO_PAGES",
+      "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/master/images/colors/оранжевый.jpg",
+      "pagesFile": "",
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/1.mp3"],
+      "timestamp": 1594785364,
+      "openPhrase": "Оранжевый"
+    }
+    
+  ]
+}
