@@ -10,7 +10,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/colors/красный.jpg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/0.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/colors/красный.mp3"],
       "timestamp": 1594785364,
       "openPhrase": "Красный"
     },
@@ -24,7 +24,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/colors/оранжевый.jpg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/1.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/colors/оранжевый.mp3"],
       "timestamp": 1594785364,
       "openPhrase": "Оранжевый"
     },
@@ -38,7 +38,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/colors/желтый.jpg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/1.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/colors/желтый.mp3"],
       "timestamp": 1594785364,
       "openPhrase": "Желтый"
     },
@@ -52,7 +52,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/colors/зеленый.jpg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/1.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/colors/зеленый.mp3"],
       "timestamp": 1594785364,
       "openPhrase": "Зеленый"
     },
@@ -66,7 +66,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/colors/голубой.jpg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/1.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/colors/голубой.mp3"],
       "timestamp": 1594785364,
       "openPhrase": "Голубой"
     },
@@ -80,7 +80,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/colors/синий.jpg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/1.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/colors/синий.mp3"],
       "timestamp": 1594785364,
       "openPhrase": "Синий"
     },
@@ -94,7 +94,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/colors/фиолетовый.jpg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/1.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/colors/фиолетовый.mp3"],
       "timestamp": 1594785364,
       "openPhrase": "Фиолетовый"
     },
@@ -108,7 +108,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/colors/коричневый.jpg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/1.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/colors/коричневый.mp3"],
       "timestamp": 1594785364,
       "openPhrase": "Коричневый"
     },
@@ -122,7 +122,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/colors/белый.jpg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/1.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/colors/белый.mp3"],
       "timestamp": 1594785364,
       "openPhrase": "Белый"
     },
@@ -136,7 +136,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/colors/черный.jpg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/1.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/colors/черный.mp3"],
       "timestamp": 1594785364,
       "openPhrase": "Черный"
     },
@@ -150,7 +150,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/colors/розовый.jpg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/1.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/colors/розовый.mp3"],
       "timestamp": 1594785364,
       "openPhrase": "Pозовый"
     },
@@ -164,7 +164,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/colors/серый.jpg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/1.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/colors/серый.mp3"],
       "timestamp": 1594785364,
       "openPhrase": "Серый"
     }
