@@ -10,7 +10,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/fruits_ru/apelsin.jpeg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/0.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/fruits/апельсин.mp3"],
       "timestamp": 1595785365,
       "openPhrase": "Апельсин"
     },
@@ -24,7 +24,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/fruits_ru/arbuz.jpeg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/1.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/fruits/арбуз.mp3"],
       "timestamp": 1595785365,
       "openPhrase": "Арбуз"
     },
@@ -38,7 +38,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/fruits_ru/banan.jpeg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/1.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/fruits/банан.mp3"],
       "timestamp": 1595785365,
       "openPhrase": "Банан"
     },
@@ -52,7 +52,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/fruits_ru/grusha.jpeg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/1.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/fruits/груша.mp3"],
       "timestamp": 1595785365,
       "openPhrase": "Зеленый"
     },
@@ -66,7 +66,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/fruits_ru/kartofel.jpeg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/1.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/fruits/картофель.mp3"],
       "timestamp": 1595785365,
       "openPhrase": "Голубой"
     },
@@ -80,7 +80,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/fruits_ru/kapusta.jpeg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/1.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/fruits/капуста.mp3"],
       "timestamp": 1595785365,
       "openPhrase": "Синий"
     },
@@ -94,7 +94,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/fruits_ru/klubnika.jpeg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/1.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/fruits/клубника.mp3"],
       "timestamp": 1595785365,
       "openPhrase": "Фиолетовый"
     },
@@ -108,7 +108,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/fruits_ru/lemon.jpeg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/1.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/fruits/лимон.mp3"],
       "timestamp": 1595785365,
       "openPhrase": "Коричневый"
     },
@@ -122,7 +122,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/fruits_ru/luk.jpeg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/1.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/fruits/лук.mp3"],
       "timestamp": 1595785365,
       "openPhrase": "Белый"
     },
@@ -136,7 +136,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/fruits_ru/morkov.jpeg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/1.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/fruits/морковь.mp3"],
       "timestamp": 1595785365,
       "openPhrase": "Черный"
     },
@@ -150,7 +150,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/fruits_ru/pomidor.jpeg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/1.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/fruits/помидор.mp3"],
       "timestamp": 1595785365,
       "openPhrase": "Pозовый"
     },
@@ -164,7 +164,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/fruits_ru/sliva.jpeg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/1.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/fruits/слива.mp3"],
       "timestamp": 1595785365,
       "openPhrase": "Серый"
     },
@@ -178,7 +178,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/fruits_ru/vinograd.jpeg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/1.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/fruits/виноград.mp3"],
       "timestamp": 1595785365,
       "openPhrase": "Серый"
     }
@@ -193,11 +193,9 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/fruits_ru/yabloko.jpeg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/1.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/fruits/яблоко.mp3"],
       "timestamp": 1595785365,
       "openPhrase": "Серый"
     }
-    
-    
   ]
 }
