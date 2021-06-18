@@ -10,7 +10,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/numbers/0.jpg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/numbers_plus/0.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/numbers/0.mp3"],
       "timestamp": 1594785364,
       "openPhrase": "Ноль"
     },
@@ -24,7 +24,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/numbers/1.jpg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/numbers_plus/1.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/numbers/1.mp3"],
       "timestamp": 1594785364,
       "openPhrase": "Один"
     },
@@ -38,7 +38,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/numbers/2.jpg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/numbers_plus/2.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/numbers/2.mp3"],
       "timestamp": 1594785364,
       "openPhrase": "Два"
     },
@@ -52,7 +52,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/numbers/3.jpg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/numbers_plus/3.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/numbers/3.mp3"],
       "timestamp": 1594785364,
       "openPhrase": "Три"
     },
@@ -66,7 +66,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/numbers/4.jpg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/numbers_plus/4.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/numbers/4.mp3"],
       "timestamp": 1594785364,
       "openPhrase": "Четыре"
     },
@@ -80,7 +80,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/numbers/5.jpg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/numbers_plus/5.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/numbers/5.mp3"],
       "timestamp": 1594785364,
       "openPhrase": "Пять"
     },
@@ -94,7 +94,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/numbers/6.jpg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/numbers_plus/6.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/numbers/6.mp3"],
       "timestamp": 1594785364,
       "openPhrase": "Шесть"
     },
@@ -108,7 +108,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/numbers/7.jpg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/numbers_plus/7.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/numbers/7.mp3"],
       "timestamp": 1594785364,
       "openPhrase": "Семь"
     },
@@ -122,7 +122,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/numbers/8.jpg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/numbers_plus/8.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/numbers/8.mp3"],
       "timestamp": 1594785364,
       "openPhrase": "Восемь"
     },
@@ -136,7 +136,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/numbers/9.jpg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/numbers_plus/9.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/numbers/9.mp3"],
       "timestamp": 1594785364,
       "openPhrase": "Девять"
     },
@@ -150,7 +150,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/numbers/10.jpg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/numbers_plus/10.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/ru/numbers/10.mp3"],
       "timestamp": 1594785364,
       "openPhrase": "Десять"
     }

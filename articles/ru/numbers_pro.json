@@ -24,7 +24,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/numbers_pro/1.jpg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/1.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers_pro/1.mp3"],
       "timestamp": 1594785364,
       "openPhrase": "Один"
     },
@@ -38,7 +38,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/numbers_pro/2.jpg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/2.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers_pro/2.mp3"],
       "timestamp": 1594785364,
       "openPhrase": "Два"
     },
@@ -52,7 +52,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/numbers_pro/3.jpg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/3.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers_pro/3.mp3"],
       "timestamp": 1594785364,
       "openPhrase": "Три"
     },
@@ -66,7 +66,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/numbers_pro/4.jpg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/4.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers_pro/4.mp3"],
       "timestamp": 1594785364,
       "openPhrase": "Четыре"
     },
@@ -80,7 +80,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/numbers_pro/5.jpg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/5.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers_pro/5.mp3"],
       "timestamp": 1594785364,
       "openPhrase": "Пять"
     },
@@ -94,7 +94,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/numbers_pro/6.jpg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/6.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers_pro/6.mp3"],
       "timestamp": 1594785364,
       "openPhrase": "Шесть"
     },
@@ -108,7 +108,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/numbers_pro/7.jpg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/7.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers_pro/7.mp3"],
       "timestamp": 1594785364,
       "openPhrase": "Семь"
     },
@@ -122,7 +122,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/numbers_pro/8.jpg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/8.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers_pro/8.mp3"],
       "timestamp": 1594785364,
       "openPhrase": "Восемь"
     },
@@ -136,7 +136,7 @@
       "type": "NO_PAGES",
       "iconUrl": "https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/images/numbers_pro/9.jpg",
       "pagesFile": "",
-      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers/9.mp3"],
+      "onClickSounds":["https://raw.githubusercontent.com/mmarashan/psdata/master/audio/ru/numbers_pro/9.mp3"],
       "timestamp": 1594785364,
       "openPhrase": "Девять"
     }
