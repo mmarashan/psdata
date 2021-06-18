@@ -1,7 +1,10 @@
 {
 	"audio":[
-		"https://raw.githubusercontent.com/mmarashan/psdata/master/audio/common/mozart-rondo-in-c-major-k-617.mp3",
-		"https://raw.githubusercontent.com/mmarashan/psdata/master/audio/common/mozart-variations-on-ah-vous-dirai-je-maman-k-265.mp3",
-		"https://raw.githubusercontent.com/mmarashan/psdata/master/audio/common/mozart-voi-che-sapete-from-the-marriage-of-figaromovement-andantino.mp3"
+		"https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/common/mozart-rondo-in-c-major-k-617.mp3",
+		"https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/common/mozart-variations-on-ah-vous-dirai-je-maman-k-265.mp3",
+		"https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/common/mozart-voi-che-sapete-from-the-marriage-of-figaromovement-andantino.mp3",
+		"https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/common/free1.mp3",
+		"https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/common/free2.mp3",
+		"https://raw.githubusercontent.com/mmarashan/psdata/release-0.7/audio/common/free3.mp3"
 	]
 }
